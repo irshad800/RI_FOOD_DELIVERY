@@ -10,6 +10,7 @@ const Header = () => {
             <p>Get your favorite food delivered to your doorstep, fresh, fast, and hassle-free—anytime you crave it.  </p>
             <button>View Menu</button>
         </div>
+        
     </div>
   )
 }
